@@ -41,7 +41,7 @@ A aplicação contém um menu com 10 opções:
 2. Mostrar tabela: apresenta todos os elementos da tabela na forma "<índice na lista tabelaHash>: (chave: <chave do elemento>, dado: <dados satélites>)" ou a mensagem "Tabela Vazia." caso não constar nenhuma entrada.
 3. Destruir tabela: remove os elementos da tabela e retorna a mensagem: "Tabela foi destruída com sucesso."
 4. Mostrar Tamanho da Tabela: calcula a quantidade de elementos que tem na tabela e mostra a mensagem:
-   "A Tabela tem <quantidade de elementos> elementos"
+   "A Tabela tem x elementos", sendo x a quantidade de elementos
 5. Inserir elemento na tabela: insere o elemento na tabela com chave e dado.
 6. Buscar elemento pela chave: busca um elemento na Tabela Hash pela chave primária. Se o elemento for encontrado, esse elemento é mostrado, se não, apresenta a mensagem "Elemento não encontrado".
 7. Buscar elementos pelos dados: busca todos os elementos da Tabela que possuem os dados informados
